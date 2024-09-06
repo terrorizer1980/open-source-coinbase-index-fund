@@ -25,8 +25,8 @@
     "gdax": "^0.7.0",
     "lodash": "^4.17.10",
     "parse": "^2.0.0",
-    "parse-dashboard": "^1.2.0",
-    "parse-server": "^2.8.2",
+    "parse-dashboard": "^4.1.0",
+    "parse-server": "^5.0.0",
     "request": "^2.85.0",
     "request-promise": "^4.2.2"
   },
